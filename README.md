@@ -1,5 +1,4 @@
 # SPS-129-Smart-Parking-System
-Smart Parking System
 
 SMART PARKING SYSTEM
 
